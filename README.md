@@ -51,11 +51,11 @@ Use .describe() to get the statistics for Decemeber.
 ## Results
 
 - Average temperature in June are in the mid 70s.
-- 
+ 
 - Average temperature in December are in the low 70s.
-- 
+
 - Decemeber may also experience temperatures as high 50s to low 60s.
 
 ## Summary
 
-Looking at the statisical break down of June and Decemeber, we may want to advise W. Avy his surf and ice cream shop may experience lower customers due to slightly lower temperatures. However, to fully understand the extent of slow business during winter, we may want to look at average temperature during all the winter months (Nov, Dec, Jan and Feb), before he makes a decision if it is a good idea to open a surf and ice cream shop year round. In addition to temperature, it may be wise to look at statistical precipitation data for the winter months as well.
+Looking at the statistical break down of June and December, we may want to advise W. Avy his surf and ice cream shop may experience lower customers due to slightly lower temperatures. However, to fully understand the extent of slow business during winter, we may want to look at average temperature during all the winter months (Nov, Dec, Jan and Feb) before his business year-round. In addition to temperature, it may be wise to look at statistical precipitation data for the winter months as well.
